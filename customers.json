@@ -1,0 +1,12 @@
+{
+    "customers": [
+        { "id": 121351, "name": "Casas Bahia" },
+        { "id": 4185153, "name": "Magalu" },
+        { "id": 185522, "name": "Rchilo" },
+        { "id": 18306, "name": "Globo" },
+        { "id": 148957, "name": "Betsul" },
+        { "id": 14598, "name": "Drogarias Pacheco" },
+        { "id": 16789, "name": "Drogaria São Paulo" },
+        { "id": 123456, "name": "Teste" }
+    ]
+}
