@@ -1,4 +1,5 @@
 {
+    "auth": true,
     "customers": [
         { "id": 121351, "name": "Casas Bahia" },
         { "id": 4185153, "name": "Magalu" },
